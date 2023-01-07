@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daynlight
 - 👀 I'm interested in Computer Science.
-- 🌱 I'm currently learning how live in Poland.
+- 🌱 I'm currently learning how to live in Poland.
 - 💞️ I'm looking to collaborate on, I don't know.
 - 📫 How to reach me? Don't try that is impossible :)
 
