@@ -30,7 +30,6 @@
   <a href = https://ubuntu.com/download><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg ></a>
   <a href = https://archlinux.org/><img width = "40px" src = https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg></a>
   <a href = https://www.arduino.cc/><img width ="40px" src = https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg></a>
-  <img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg >
 </div>   
 <hr>
 <h4>:scroll: Languages:</h4>
