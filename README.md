@@ -13,8 +13,24 @@
 <h4>:hammer_and_wrench: Tools:</h4>
 <div align = "left">
   <a href =https://visualstudio.microsoft.com/pl/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg><a>
-  <a href =https://code.visualstudio.com/><img width = "40px" src =https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519 ><a>
+  <a href =https://code.visualstudio.com/><img width = "40px" src =https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg><a>
+  <a href = https://www.blender.org/download/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg ></a>
+  <a href = https://cmake.org/ ><img width = "40px" src =https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg  ></a>
+  <a href = https://filezilla-project.org/><img width = "40px" src =https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg></a>
+  <a href = https://www.google.pl/chrome/?brand=YTUH&gclid=Cj0KCQiAzeSdBhC4ARIsACj36uFmEdNi8Uj1dRdfRBzQf6yHYoh797XIWkBrdvkh2p9RD8wioSCQ1TIaAul_EALw_wcB&gclsrc=aw.ds ><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg ></a>
+  <a href = https://www.gimp.org/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg ></a>
+  <a href = https://github.com ><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg ></a>
+  <a href = https://git-scm.com/downloads><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg ></a>
+  <img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg >
+  <a href = https://inkscape.org/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg ></a>
+  <img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg >
+  <a href = https://www.oracle.com/pl/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg ></a>
+  <a href = https://www.putty.org/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg ></a>
+  <img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg >
+  <a href = https://ubuntu.com/download><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg ></a>
 </div>   
 <hr>
 <h4>:scroll: Languages:</h4>
-
+<div align = "left">
+  <a href = ><img width = "40px" src =  ></a>
+</div>
