@@ -1,6 +1,6 @@
 <div align="center">
-<img height = "200px" width = "49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Daynlight&layout=compact&theme=midnight-purple>
-<img height = "200px" width = "49%" src=https://github-readme-stats.vercel.app/api?username=Daynlight&show_icons=true&theme=midnight-purple>
+<img height = "100%" width = "49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Daynlight&layout=compact&theme=midnight-purple>
+<img height = "100%" width = "49%" src=https://github-readme-stats.vercel.app/api?username=Daynlight&show_icons=true&theme=midnight-purple>
 </div></br>
 <div align="center">
   <img src = https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake.svg>
