@@ -5,8 +5,9 @@
 <div align="center">
   <img src = https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake.svg>
 </div>
-<div align="left">
+<div align="center">
 <a href = https://github.com/Daynlight/CPU><img src = https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=CPU&theme=midnight-purple></a>
+ <a href = https://github.com/Daynlight/CPU><img src = https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=Pinguin&theme=midnight-purple></a>
 </div>
 <hr>
 <h4>:hammer_and_wrench: Tools:</h4>
