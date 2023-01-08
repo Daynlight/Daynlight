@@ -17,7 +17,7 @@
   <a href = https://www.blender.org/download/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg ></a>
   <a href = https://cmake.org/ ><img width = "40px" src =https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg  ></a>
   <a href = https://filezilla-project.org/><img width = "40px" src =https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg></a>
-  <a href = https://www.google.pl/chrome/?brand=YTUH&gclid=Cj0KCQiAzeSdBhC4ARIsACj36uFmEdNi8Uj1dRdfRBzQf6yHYoh797XIWkBrdvkh2p9RD8wioSCQ1TIaAul_EALw_wcB&gclsrc=aw.ds ><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg ></a>
+  <a href = https://www.google.pl/chrome/?brand=YTUH&gclid=Cj0KCQiAzeSdBhC4ARIsACj36uFmEdNi8Uj1dRdfRBzQf6yHYoh797XIWkBrdvkh2p9RD8wioSCQ1TIaAul_EALw_wcB&gclsrc=aw.ds ><img width = "40px" src = https://www.svgrepo.com/show/176749/google-chrome-logo.svg></a>
   <a href = https://www.gimp.org/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg ></a>
   <a href = https://github.com ><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg ></a>
   <a href = https://git-scm.com/downloads><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg ></a>
