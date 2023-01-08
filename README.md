@@ -1,14 +1,14 @@
 <div align="center">
 <img height = "100%" width = "49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Daynlight&layout=compact&theme=midnight-purple>
 <img height = "100%" width = "49%" src=https://github-readme-stats.vercel.app/api?username=Daynlight&show_icons=true&theme=midnight-purple>
-</div></br>
+</div>
 <div align="center">
   <img src = https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake.svg>
 </div>
 <div align="center">
 <a href = https://github.com/Daynlight/CPU><img src = https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=CPU&theme=midnight-purple></a>
 <a href = https://github.com/Daynlight/SolarSystemOPENGL><img src = https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=SolarSystemOPENGL&theme=midnight-purple></a>
-</div></br>
+</div>
 <hr>
 <h4>:hammer_and_wrench: Tools:</h4>
 <div align = "left">
