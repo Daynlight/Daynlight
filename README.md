@@ -20,6 +20,7 @@
   <a href = https://inkscape.org/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg ></a>
   <a href = https://www.google.pl/chrome/?brand=YTUH&gclid=Cj0KCQiAzeSdBhC4ARIsACj36uFmEdNi8Uj1dRdfRBzQf6yHYoh797XIWkBrdvkh2p9RD8wioSCQ1TIaAul_EALw_wcB&gclsrc=aw.ds >   <img width = "40px" src = https://github.com/Daynlight/Daynlight/blob/main/icons/chrome.svg></a>
   <img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg >
+  <img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg >
   <a href = https://github.com ><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg ></a>
   <a href = https://git-scm.com/downloads><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg ></a>
   <a href = https://www.apachefriends.org/pl/index.html ><img width = "40px" src = https://cdn.worldvectorlogo.com/logos/xampp.svg></a>
