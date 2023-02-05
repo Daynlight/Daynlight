@@ -42,6 +42,8 @@
   <a href = https://www.w3schools.com/html/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg ></a>
   <a href = https://www.w3schools.com/css/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg ></a>
   <a href = https://www.php.net/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg ></a>
+  <a href = https://nodejs.org/en/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg ></a>
+  <a href = https://getbootstrap.com/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg ></a>
   <a href = https://www.mysql.com/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg ></a>
   <a href = https://www.opengl.org/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg ></a>
   <img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg>
