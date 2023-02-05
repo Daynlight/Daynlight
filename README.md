@@ -9,7 +9,6 @@
 <a href = https://github.com/Daynlight/CPU><img src = https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daynlight&repo=CPU&theme=midnight-purple></a>
 <a href = https://github.com/Daynlight/Pinguin><img src = https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daynlight&repo=Pinguin&theme=midnight-purple></a>
 <a href = https://github.com/Daynlight/SolarSystemOPENGL><img src = https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daynlight&repo=SolarSystemOPENGL&theme=midnight-purple></a>
-<a href = https://github.com/Daynlight/AdventureGAMEOPENGL><img src = https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daynlight&repo=AdventureGAMEOPENGL&theme=midnight-purple></a>
 </div>
 <hr>
 <h4>:hammer_and_wrench: Tools:</h4>
