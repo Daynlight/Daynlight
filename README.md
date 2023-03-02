@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 <a href = https://github.com/Daynlight/CPU><img src = https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daynlight&repo=CPU&theme=midnight-purple></a>
-<a href = https://github.com/Daynlight/Pinguin><img src = https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daynlight&repo=Pinguin&theme=midnight-purple></a>
+
 
 </div>
 <hr>
