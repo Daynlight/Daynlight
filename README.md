@@ -3,7 +3,7 @@
 <img height = "100%" width = "49%" src=https://github-readme-stats-eight-theta.vercel.app/api?username=Daynlight&show_icons=true&theme=midnight-purple>
 </div>
 <div align="center">
-  <img src = https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake.svg>
+  <img src = https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg>
 </div>
 <div align="center">
 <a href = https://github.com/Daynlight/CPU><img src = https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daynlight&repo=CPU&theme=midnight-purple></a>
