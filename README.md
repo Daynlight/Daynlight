@@ -1,16 +1,10 @@
+
 <div align="center">
-<img height = "100%" width = "49%" src=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daynlight&layout=compact&theme=midnight-purple>
-<img height = "100%" width = "49%" src=https://github-readme-stats-eight-theta.vercel.app/api?username=Daynlight&show_icons=true&theme=midnight-purple>
+<img  width=40% src=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daynlight&layout=compact&theme=midnight-purple>
+<img  width=48% src=https://github-readme-stats-eight-theta.vercel.app/api?username=Daynlight&show_icons=true&theme=midnight-purple>
 </div>
 <div align="center">
-  <img src = https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg>
-</div>
-<div align="center">
-<a href = https://github.com/Daynlight/CPU><img src = https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daynlight&repo=CPU&theme=midnight-purple></a>
-<a href = https://github.com/Daynlight/O-i-X><img src = https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daynlight&repo=O-i-X&theme=midnight-purple></a>
-<a href = https://github.com/Daynlight/OBJLoader_CPP><img src = https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daynlight&repo=OBJLoader_CPP&theme=midnight-purple></a>
-<a href = https://github.com/Daynlight/WriteEffect-in-JS><img src = https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Daynlight&repo=WriteEffect-in-JS&theme=midnight-purple></a>
-  
+  <img width=100% src = https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg>
 </div>
 <hr>
 <h4>:blush: WebSites</h4>
