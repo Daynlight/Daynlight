@@ -11,9 +11,9 @@
 
 [www.daynlight.github.io/UwUsiometr/](https://daynlight.github.io/UwUsiometr/)<br>
 [www.daynlight.github.io/WriteEffect-in-JS/](https://daynlight.github.io/WriteEffect-in-JS/)<br>
-[www.daynlight.github.io/KronikiZlomiarza/](https://daynlight.github.io/KronikiZlomiarza/)
+[www.daynlight.github.io/KronikiZlomiarza/](https://daynlight.github.io/KronikiZlomiarza/)</br>
 [www.daynlight.github.io/LoginForm/](https://daynlight.github.io/LoginForm/)
-https://daynlight.github.io/LoginForm/
+
 <hr>
 <h4>:hammer_and_wrench: Tools:</h4>
 <div align = "left">
