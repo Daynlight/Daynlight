@@ -3,9 +3,6 @@
 <img  width=40% src=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daynlight&layout=compact&theme=midnight-purple>
 <img  width=48% src=https://github-readme-stats-eight-theta.vercel.app/api?username=Daynlight&show_icons=true&theme=midnight-purple>
 </div>
-<div align="center">
-  <img width=100% src = https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg>
-</div>
 <hr>
 <h4>:blush: WebSites</h4>
 
