@@ -9,7 +9,6 @@
 [www.daynlight.github.io/WebBio/](https://daynlight.github.io/WebBio/)</br>
 [www.daynlight.github.io/UwUsiometr/](https://daynlight.github.io/UwUsiometr/)<br>
 [www.daynlight.github.io/WriteEffect-in-JS/](https://daynlight.github.io/WriteEffect-in-JS/)<br>
-[www.daynlight.github.io/KronikiZlomiarza/](https://daynlight.github.io/KronikiZlomiarza/)
 
 <hr>
 <h4>:hammer_and_wrench: Tools:</h4>
