@@ -1,15 +1,25 @@
+<div style="font-family: monospace;">
+  <div>
+    <div style="width: 100%; height: 200px; position: relative; display: flex; align-items:center; justify-content: center; background-image: url('/Assets/Background.jpg')">
+      <div style="Color: White; font-size: 500%; text-align:center; position:absolute">Kokomichrzan</div>
+    </div>
+    
+  </div>
 
-<div align="center">
-<img  width=40% src=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daynlight&layout=compact&theme=midnight-purple>
-<img  width=48% src=https://github-readme-stats-eight-theta.vercel.app/api?username=Daynlight&show_icons=true&theme=midnight-purple>
+  <!-- <div style="display: grid; grid-template-columns: 50% 50%; grid-template-rows: 100%;">
+  <img height=100% src=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daynlight&layout=compact&theme=midnight-purple>
+  <img height=100% src=https://github-readme-stats-eight-theta.vercel.app/api?username=Daynlight&show_icons=true&theme=midnight-purple>
+  </div> -->
+  <hr>
+  <div style="text-align:center; font-size: 200%; color:white;">
+    <div style="font-size: 150%">🌐Web Sites🌐</div>
+    <li style="cursor: pointer;" href="https://daynlight.github.io/UwUsiometr/">UwUsiometr</li>
+    <li style="cursor: pointer;" href="https://daynlight.github.io/WriteEffect-in-JS/">Write Effect JS</li>
+  </div>
+
 </div>
-<hr>
-<h4>:blush: WebSites</h4>
 
-[www.daynlight.github.io/UwUsiometr/](https://daynlight.github.io/UwUsiometr/)<br>
-[www.daynlight.github.io/WriteEffect-in-JS/](https://daynlight.github.io/WriteEffect-in-JS/)<br>
-
-<hr>
+<!-- <hr>
 <h4>:hammer_and_wrench: Tools:</h4>
 <div align = "left">
   <a href =https://visualstudio.microsoft.com/pl/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg><a>
@@ -47,4 +57,4 @@
   <a href = https://www.mysql.com/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg ></a>
   <a href = https://www.opengl.org/><img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg ></a>
   <img width = "40px" src = https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg>
-</div>
+</div> -->
