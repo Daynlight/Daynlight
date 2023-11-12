@@ -14,6 +14,7 @@
 
 </div>
 <h2 align="center" style="color:white;">⚙Tools⚙</h2>
+<div align="center" width=100%>
 <img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/Cpp.png">
 <img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/CSS.png">
 <img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/HTML.png">
@@ -23,3 +24,13 @@
 <img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/Vite.png">
 <img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/Vue.png">
 <img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/MySql.png">
+<img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/VSCode.png">
+<img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/VS.png">
+<img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/Blender.png">
+<img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/Gimp.svg">
+<img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/GitHubDesktop.png">
+<img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/Inkscape.png">
+<img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/Krita.png">
+<img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/TODOist.png">
+<img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/XPPen.png">
+</div>
