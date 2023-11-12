@@ -4,7 +4,8 @@
     <img width=100% src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Background.jpg">
   </div>
 </div>
-<h2 align="center" style="color:white;">🌐Web Sites🌐</h2>
+<details open>
+<summary><h2>🌐Web Sites🌐</h2></summary>
 <div align="center">
   
 | Projekt | Desc | Link |
@@ -13,7 +14,9 @@
 | Write Effect in JS | Write Effect | <a href="https://daynlight.github.io/WriteEffect-in-JS/">Write Effect JS</a> |
 
 </div>
-<h2 align="center" style="color:white;">⚙Tools⚙</h2>
+</details>
+<details>
+<summary><h2>⚙Tools⚙</h2></summary>
 <div align="center" width=100%>
 <img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/Cpp.png">
 <img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/CSS.png">
@@ -34,3 +37,4 @@
 <img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/TODOist.png">
 <img height=50px src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Icons/XPPen.png">
 </div>
+</details>
