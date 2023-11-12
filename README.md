@@ -1,6 +1,6 @@
 <div style="font-family: monospace;">
   <div>
-    <div style="width: 100%; height: 200px; position: relative; display: flex; align-items:center; justify-content: center;">
+    <div style="width: 100%; height: 200px; position: relative; display: flex; align-items:center; justify-content: center;)">
       <img src="https://github.com/Daynlight/Daynlight/blob/main/Assets/Background.jpg">
       <div style="Color: White; font-size: 500%; text-align:center; position:absolute">Kokomichrzan</div>
     </div>
