@@ -8,7 +8,7 @@
 </div>
 <div><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Stats.svg"></div>
 <div align=center>
-<img src="https://streak-stats.demolab.com?user=Daynlight&theme=burnt-neon">
+<img src="https://streak-stats.demolab.com?user=Daynlight&theme=violet-dark">
 </div>
 <div><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/ScrollAndBrooms.svg"></div>
 <div align=center>
