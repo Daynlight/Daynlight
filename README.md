@@ -10,8 +10,9 @@
 <div align=center>
 <img height=150px src="https://streak-stats.demolab.com?user=Daynlight&theme=violet-dark">
 <img height=150px src="https://github-readme-stats.vercel.app/api?username=Daynlight&show_icons=true&theme=radical">
-<img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daynlight&theme=dark&exclude_repo=Pinguin"></br>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=5ozk5m1iu6nv9qi3lwmq3rgwi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+<img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daynlight&theme=dark&exclude_repo=Pinguin">
+<img src="https://discord-readme-badge.vercel.app/api?id=564148738910584842">
+</br><img src="https://spotify-github-profile.vercel.app/api/view?uid=5ozk5m1iu6nv9qi3lwmq3rgwi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </br><img height=50px src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Frog.gif">
 </div>
 <div><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/ScrollAndBrooms.svg"></div>
@@ -34,5 +35,3 @@
 <img width=5% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Icons/Krita.png">
 <img width=5% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Icons/TODOist.png">
 </div>
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=564148738910584842)
