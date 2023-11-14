@@ -9,8 +9,11 @@
 <div><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Stats.svg"></div>
 <div align=center>
 <img height=150px src="https://streak-stats.demolab.com?user=Daynlight&theme=violet-dark">
-<img height=150px src="https://github-readme-stats.vercel.app/api?username=Daynlight&show_icons=true&theme=radical"></br>
+<img height=150px src="https://github-readme-stats.vercel.app/api?username=Daynlight&show_icons=true&theme=radical">
+<img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daynlight&theme=dark&exclude_repo=Pinguin"></br>
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=5ozk5m1iu6nv9qi3lwmq3rgwi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+
+
 </div>
 <div><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/ScrollAndBrooms.svg"></div>
 <div align=center>
