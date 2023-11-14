@@ -7,8 +7,8 @@
 <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=WriteEffect-in-JS&theme=dark">
 </div>
 <div><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Stats.svg"></div>
-<div>
-  
+<div align=center>
+<img src="https://streak-stats.demolab.com/?user=Daynlight&theme=dark">
 </div>
 <div><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/ScrollAndBrooms.svg"></div>
 <div align=center>
