@@ -35,3 +35,4 @@
 <img width=5% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Icons/TODOist.png">
 </div>
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=564148738910584842)
