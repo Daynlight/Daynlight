@@ -6,6 +6,10 @@
 <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=UwUsiometr&theme=dark">
 <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=WriteEffect-in-JS&theme=dark">
 </div>
+<div><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Stats.svg"></div>
+<div>
+  
+</div>
 <div><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/ScrollAndBrooms.svg"></div>
 <div align=center>
 <img width=5% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Icons/Cpp.png">
@@ -26,4 +30,4 @@
 <img width=5% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Icons/Krita.png">
 <img width=5% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Icons/TODOist.png">
 </div>
-<div><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Stats.svg"></div>
+
