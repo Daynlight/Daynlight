@@ -3,9 +3,9 @@
 <div><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Recipes.svg"></div>
 <div align=center>
 
-![CPU](https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=CPU&theme=dark)
-![UwUsiometr](https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=UwUsiometr&theme=dark)
-![WriteEffect-in-JS](https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=WriteEffect-in-JS&theme=dark)
+<img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=CPU&theme=dark">
+<img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=UwUsiometr&theme=dark">
+<img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=WriteEffect-in-JS&theme=dark">
 </div>
 <div><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/ScrollAndBrooms.svg"></div>
 <div align=center>
