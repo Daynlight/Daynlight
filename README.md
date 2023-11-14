@@ -26,3 +26,4 @@
 <img width=5% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Icons/Krita.png">
 <img width=5% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Icons/TODOist.png">
 </div>
+<div><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Stats.svg"></div>
