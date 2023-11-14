@@ -26,5 +26,4 @@
 <img height=50px src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Icons/Inkscape.png">
 <img height=50px src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Icons/Krita.png">
 <img height=50px src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Icons/TODOist.png">
-<img height=50px src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Icons/XPPen.png">
 </div>
