@@ -2,7 +2,6 @@
 <div align="center"><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/About.svg"></div>
 <div><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Recipes.svg"></div>
 <div align=center>
-
 <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=CPU&theme=dark">
 <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=UwUsiometr&theme=dark">
 <img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=WriteEffect-in-JS&theme=dark">
