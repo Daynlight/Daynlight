@@ -3,8 +3,8 @@
 <div><a href="https://github.com/Daynlight?tab=repositories"><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Recipes.svg"></a></div>
 <div align=center>
 <a href="https://github.com/Daynlight/CPU"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=CPU&theme=dark"></a>
-<a href="https://github.com/Daynlight/UwUsiometr"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=UwUsiometr&theme=dark"></a>
-<a href="https://github.com/Daynlight/WriteEffect-in-JS"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=WriteEffect-in-JS&theme=dark"></a>
+<a href="https://daynlight.github.io/UwUsiometr"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=UwUsiometr&theme=dark"></a>
+<a href="https://daynlight.github.io/WriteEffect-in-JS/"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Daynlight&repo=WriteEffect-in-JS&theme=dark"></a>
 </div>
 <div><a href=""><img width=100% src="https://github.com/Daynlight/Daynlight/blob/Witches-Night/Assets/Stats.svg"></a></div>
 <div align=center>
