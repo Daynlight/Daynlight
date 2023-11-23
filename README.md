@@ -2,8 +2,11 @@
 <div align="center"><a href=""><img width=100% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/About.svg"></a></div>
 <div align="center">
   <a href="https://twitter.com/kokomichrzan"><img src="https://img.shields.io/badge/Twitter-blue"></a>
-  <a href="https://www.deviantart.com/kokomichrzanuwu"><img src="https://img.shields.io/badge/DeviantArt-darkgreen"></a>
+  <a href="https://www.reddit.com/user/Kokomichrzan"><img src="https://img.shields.io/badge/Reddit-orange"></a>
+  <a href="https://www.fiverr.com/kokomichrzan"><img src="https://img.shields.io/badge/Fiver-aqua"></a>
+  <a href="https://www.upwork.com/freelancers/~015ba889efd9ffec68"><img src="https://img.shields.io/badge/UpWork-green"></a>
   <a href="https://leetcode.com/kokomichrzan/"><img src="https://img.shields.io/badge/LeetCode-darkorange"></a>
+  <a href="https://www.deviantart.com/kokomichrzanuwu"><img src="https://img.shields.io/badge/DeviantArt-darkgreen"></a>
   <a href="https://pl.pinterest.com/kokomichrzanuwu/"><img src="https://img.shields.io/badge/Pinterest-darkred"></a>
 </div>
 <div><a href=""><img width=100% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Recipes.svg"></div>
