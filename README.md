@@ -3,6 +3,7 @@
 <div><a href="https://github.com/Kokomichrzan?tab=repositories"><img width=100% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Recipes.svg"></a></div>
 <div align=center>
 <a href="https://github.com/Kokomichrzan/CPU"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Kokomichrzan&repo=CPU&theme=dark"></a>
+  <a href="https://kokomichrzan.github.io/WebBio"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Kokomichrzan&repo=WebBio&theme=dark"></a>
 <a href="https://kokomichrzan.github.io/UwUsiometr"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Kokomichrzan&repo=UwUsiometr&theme=dark"></a>
 <a href="https://kokomichrzan.github.io/WriteEffect-in-JS/"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Kokomichrzan&repo=WriteEffect-in-JS&theme=dark"></a>
 </div>
