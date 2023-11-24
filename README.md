@@ -1,7 +1,7 @@
 <div align="center"><a href=""><img width=70% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Witches%20Title.svg"></a></div>
 <div align="center"><a href=""><img width=100% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/About.svg"></a></div>
 <div align="center">
-  <a href="https://kokomichrzan.github.io/WebBio/"><img src="https://img.shields.io/badge/Website-red"></a>
+  <a href="https://kokomichrzan.github.io/WebBio/index.html"><img src="https://img.shields.io/badge/Website-red"></a>
   <a href="https://twitter.com/kokomichrzan"><img src="https://img.shields.io/badge/Twitter-blue"></a>
   <a href="https://www.reddit.com/user/Kokomichrzan"><img src="https://img.shields.io/badge/Reddit-orange"></a>
   <a href="https://www.fiverr.com/kokomichrzan"><img src="https://img.shields.io/badge/Fiver-aqua"></a>
@@ -13,7 +13,7 @@
 <div><a href=""><img width=100% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Recipes.svg"></div>
 <div align=center>
 <a href="https://github.com/Kokomichrzan/CPU"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Kokomichrzan&repo=CPU&theme=dark"></a>
-  <a href="https://kokomichrzan.github.io/WebBio"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Kokomichrzan&repo=WebBio&theme=dark"></a>
+  <a href="https://kokomichrzan.github.io/WebBio/index.html"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Kokomichrzan&repo=WebBio&theme=dark"></a>
 <a href="https://kokomichrzan.github.io/UwUsiometr"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Kokomichrzan&repo=UwUsiometr&theme=dark"></a>
 <a href="https://kokomichrzan.github.io/WriteEffect-in-JS/"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Kokomichrzan&repo=WriteEffect-in-JS&theme=dark"></a>
 </div>
