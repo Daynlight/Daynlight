@@ -30,21 +30,13 @@
 </div>
 <div><a href=""><img width=100% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/ScrollAndBrooms.svg"></a></div>
 <div align=center>
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/Cpp.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/HTML.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/CSS.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/JS.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/MySql.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/NodeJS.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/ReactJS.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/Vite.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/Vue.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/VSCode.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/VS.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/Blender.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/Gimp.svg">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/GitHubDesktop.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/Inkscape.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/Krita.png">
-<img width=5% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Icons/TODOist.png">
+  
+| Programing Language | ![Static Badge](https://img.shields.io/badge/C%2B%2B-yellow?logo=c%2B%2B) |  |  |  |  |  |
+|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| Frontend | ![Static Badge](https://img.shields.io/badge/Vue-darkred?logo=vue) | ![Static Badge](https://img.shields.io/badge/Vite-green?logo=vite) | ![Static Badge](https://img.shields.io/badge/React-darkred?logo=react) | ![Static Badge](https://img.shields.io/badge/HTML-green?logo=HTML) | ![Static Badge](https://img.shields.io/badge/JavaScript-green?logo=javascript) | ![Static Badge](https://img.shields.io/badge/CSS-green?logo=CSS) |
+| Backend | ![Static Badge](https://img.shields.io/badge/NodeJS-green?logo=nodejs) |
+| Database | ![Static Badge](https://img.shields.io/badge/MySql-yellow?logo=MySql) | 
+| Software | ![Static Badge](https://img.shields.io/badge/TODOist-green?logo=TODOist) | ![Static Badge](https://img.shields.io/badge/Krita-green?logo=krita) | ![Static Badge](https://img.shields.io/badge/Inkscape-green?logo=inkscape) | ![Static Badge](https://img.shields.io/badge/Github_Desktop-green?logo=githubdesktop) | ![Static Badge](https://img.shields.io/badge/Gimp-green?logo=gimp) | ![Static Badge](https://img.shields.io/badge/Blender-green?logo=blender) |
+| IDE | ![Static Badge](https://img.shields.io/badge/VScode-green?logo=visualstudiocode) | ![Static Badge](https://img.shields.io/badge/MSVS-green?logo=visualstudio) |
+
 </div>
