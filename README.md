@@ -10,13 +10,6 @@
   <a href="https://www.deviantart.com/kokomichrzanuwu"><img src="https://img.shields.io/badge/DeviantArt-darkgreen"></a>
   <a href="https://pl.pinterest.com/kokomichrzanuwu/"><img src="https://img.shields.io/badge/Pinterest-darkred"></a>
 </div>
-<div><a href=""><img width=100% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Recipes.svg"></div>
-<div align=center>
-<a href="https://github.com/Kokomichrzan/CPU"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Kokomichrzan&repo=CPU&theme=dark"></a>
-  <a href="https://kokomichrzan.github.io/WebBio/index.html"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Kokomichrzan&repo=WebBio&theme=dark"></a>
-<a href="https://kokomichrzan.github.io/UwUsiometr"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Kokomichrzan&repo=UwUsiometr&theme=dark"></a>
-<a href="https://kokomichrzan.github.io/WriteEffect-in-JS/"><img width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=Kokomichrzan&repo=WriteEffect-in-JS&theme=dark"></a>
-</div>
 <div><a href=""><img width=100% src="https://github.com/Kokomichrzan/Kokomichrzan/blob/Witches-Night/Assets/Stats.svg"></a></div>
 <div align=center>
 <a href=""><img height=150px src="https://streak-stats.demolab.com?user=Kokomichrzan&theme=violet-dark"></a>
