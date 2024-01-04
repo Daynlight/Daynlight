@@ -14,7 +14,7 @@
 <div align=center>
 <a href=""><img height=150px src="https://streak-stats.demolab.com?user=Kokomichrzan&theme=violet-dark"></a>
 <a href=""><img height=150px src="https://github-readme-stats.vercel.app/api?username=Kokomichrzan&show_icons=true&theme=radical"></a>
-<a href="https://github.com/Kokomichrzan?tab=repositories"><img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokomichrzan&theme=dark&exclude_repo=Pinguin,CPU"></a>
+<a href="https://github.com/Kokomichrzan?tab=repositories"><img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokomichrzan&theme=dark"></a>
 <a href="https://discordapp.com/users/564148738910584842"><img height=150px src="https://discord-readme-badge.vercel.app/api?id=564148738910584842"></a>
 <a href="https://leetcode.com/kokomichrzan/"><img src="https://leetcard.jacoblin.cool/Kokomichrzan"></a>
 </br><a href="https://open.spotify.com/user/5ozk5m1iu6nv9qi3lwmq3rgwi">
