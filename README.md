@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🔥Daynlight🔥
-<a href="https://github.com/Daynlight"><img src="https://avatars.githubusercontent.com/u/62157770?v=4"></a>
+<a href="https://github.com/Daynlight"><img src="https://raw.githubusercontent.com/Daynlight/WebBio/WebBio/Assets/OGTumb.jpg#keepProtocol"></a>
 </div>
 
 <div align="center">
