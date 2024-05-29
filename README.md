@@ -18,7 +18,7 @@
 ## 💖Stats💖
 <a href=""><img height=150px src="https://streak-stats.demolab.com?user=daynlight&theme=violet-dark"></a>
 <a href=""><img height=150px src="https://github-readme-stats.vercel.app/api?username=daynlight&show_icons=true&theme=radical"></a>
-<a href="https://github.com/daynlight?tab=repositories"><img height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=daynlight&theme=dark"></a>
+<a href="https://github.com/daynlight?tab=repositories"><img height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=daynlight&theme=dark&hide=c"></a>
 </div>
 
 <div align=center>
