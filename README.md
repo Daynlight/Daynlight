@@ -12,7 +12,7 @@
 <div align=center>
 
 ## 👑Trophy👑
-<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=daynlight&theme=monokai&column=-1&rank=-?"></a>
+<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=daynlight&theme=algolia&column=-1&rank=-?"></a>
 </div>
 
 <div align=center>
