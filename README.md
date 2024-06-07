@@ -1,7 +1,5 @@
 <div align="center">
-
-# 🔥Daynlight🔥
-<a href="https://github.com/Daynlight"><img src="https://raw.githubusercontent.com/Daynlight/WebBio/WebBio/Assets/OGTumb.jpg#keepProtocol"></a>
+<a href="https://github.com/Daynlight"><img src="https://raw.githubusercontent.com/Daynlight/Daynlight/Summer-2024/Background.png#keepProtocol"></a>
 </div>
 
 <div align="center">
