@@ -2,22 +2,17 @@
 <a href="https://github.com/Daynlight"><img src="https://raw.githubusercontent.com/Daynlight/Daynlight/Summer-2024/Background.png#keepProtocol"></a>
 </div>
 
-<div align="center">
+<div align=center>
 
-  ## 🎏Socials🎏
-  <a href="https://daynlight.github.io/WebBio/"><img src="https://img.shields.io/badge/Website-red"></a>
-  <a href="https://twitter.com/K0k0miUwU"><img src="https://img.shields.io/badge/Twitter-blue"></a>
-  <a href="https://www.reddit.com/user/DaynlightUwU"><img src="https://img.shields.io/badge/Reddit-orange"></a>
-  <a href="https://leetcode.com/kokomichrzan/"><img src="https://img.shields.io/badge/LeetCode-darkorange"></a>
+## 💖Stats💖
+<a href=""><img height=150px src="https://streak-stats.demolab.com?user=daynlight&theme=violet-dark"></a></br>
+<a href="https://github.com/daynlight?tab=repositories"><img height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=daynlight&theme=dark&hide=c"></a>
 </div>
 
 <div align=center>
 
-## 💖Stats💖
-<a href=""><img height=150px src="https://streak-stats.demolab.com?user=daynlight&theme=violet-dark"></a>
-<a href=""><img height=150px src="https://github-readme-stats.vercel.app/api?username=daynlight&show_icons=true&theme=radical"></a>
-<a href="https://github.com/daynlight?tab=repositories"><img height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=daynlight&theme=dark&hide=c"></a>
-<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=daynlight&theme=onedark"></a>
+## 👑Trophy👑
+<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=daynlight&theme=monokai&column=-1&rank=-?"></a>
 </div>
 
 <div align=center>
@@ -31,11 +26,4 @@
 | Database | ![Static Badge](https://img.shields.io/badge/MySql-green?logo=MySql) | 
 | Software | ![Static Badge](https://img.shields.io/badge/TODOist-green?logo=TODOist) | ![Static Badge](https://img.shields.io/badge/Krita-green?logo=krita) | ![Static Badge](https://img.shields.io/badge/Inkscape-green?logo=inkscape) | ![Static Badge](https://img.shields.io/badge/Github_Desktop-green?logo=githubdesktop) | ![Static Badge](https://img.shields.io/badge/Gimp-green?logo=gimp) | ![Static Badge](https://img.shields.io/badge/Blender-green?logo=blender) |
 | IDE | ![Static Badge](https://img.shields.io/badge/VScode-green?logo=visualstudiocode) | ![Static Badge](https://img.shields.io/badge/MSVS-green?logo=visualstudio) |
-</div>
-
-<div align=center>
-
-## 👀Contact👀
-<a href="https://discordapp.com/users/564148738910584842"><img height=150px src="https://discord-readme-badge.vercel.app/api?id=564148738910584842"></a></br>
-Mail: kokomichrzanuwu@gmail.com
 </div>
