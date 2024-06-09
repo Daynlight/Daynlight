@@ -1,5 +1,9 @@
 <div align="center">
-<a href="https://github.com/Daynlight"><img src="https://raw.githubusercontent.com/Daynlight/Daynlight/Summer-2024/Background.png#keepProtocol"></a>
+<h1>🐢D A Y N L I G H T🐢</h1>
+</div>
+
+<div align="center">
+  🌠 GitHub voyager | Navigating through the galaxies of repositories 🛰️ 🌌 Let's embark on a cosmic coding journey together! 🌠✨
 </div>
 
 <div align=center>
