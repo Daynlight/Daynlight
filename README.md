@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-  🌠 GitHub voyager | Navigating through the galaxies of repositories 🛰️ 🌌 Let's embark on a cosmic coding journey together! 🌠✨
+<img src="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg"></br>
+  🌠 GitHub voyager | Navigating through the galaxies of repositories 🛰️ 🌌 Let's embark on a cosmic coding journey together! 🌠
 </div>
 
 <div align=center>
