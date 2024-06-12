@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🐢D A Y N L I G H T🐢</h1>
+<h1>D A Y N L I G H T</h1>
 </div>
 
 <div align="center">
