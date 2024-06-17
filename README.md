@@ -11,9 +11,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture></br>
-  I wanna die 🎲</br>
-  App dev 🌠</br>
-  Wanna join to open source project 🥢
+
+  * I wanna die 🎲</br>
+  * App dev 🌠</br>
+  * Wanna join to open source project 🥢
 </div>
 
 <div align=center>
