@@ -13,9 +13,9 @@
 </picture></br>
 
 ```
-* I wanna die 🎲</br>
-* App dev 🌠</br>
-* Wanna join to open source project 🥢
+- I wanna die 🎲
+- App dev 🌠
+- Wanna join to open source project 🥢
 ```
 </div>
 
