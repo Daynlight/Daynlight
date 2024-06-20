@@ -12,7 +12,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture></br>
 
-<img src="Desc.gif">
+<img src="Description.gif">
 </div>
 
 <div align=center>
