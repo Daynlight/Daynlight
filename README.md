@@ -12,11 +12,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture></br>
 
-```
-- I wanna die 🎲
-- App dev 🌠
-- Wanna join to open source project 🥢
-```
+<img src="Desc.gif">
 </div>
 
 <div align=center>
