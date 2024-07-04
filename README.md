@@ -34,7 +34,7 @@
   <h3>Databases</h3>
    <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite">
   <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=github,git,blender,vscode,visualstudio">
+    <img src="https://skillicons.dev/icons?i=github,git,blender,vscode,visualstudio,arduino">
   <h3>Will Learn</h3>
     <img src="https://skillicons.dev/icons?i=vue,react,java,angular">
 </div>
