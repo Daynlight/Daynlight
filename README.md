@@ -36,7 +36,7 @@
   <h3>Tools</h3>
     <img src="https://skillicons.dev/icons?i=github,git,blender,vscode,visualstudio,arduino,cmake">
   <h3>Will Learn</h3>
-    <img src="https://skillicons.dev/icons?i=vue,react,java,angular">
+    <img src="https://skillicons.dev/icons?i=c,vue,react,java,angular">
 </div>
 
 <div align=center>
