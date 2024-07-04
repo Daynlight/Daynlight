@@ -32,7 +32,7 @@
   <h3>Programing Langs</h3>
     <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,js,ts,css,vite,md,nodejs,express,php,lua">
   <h3>Databases</h3>
-   <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis">
+   <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite">
   <h3>Tools</h3>
     <img src="https://skillicons.dev/icons?i=github,git,blender,vscode,visualstudio">
   <h3>Will Learn</h3>
