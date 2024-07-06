@@ -41,6 +41,6 @@
 
 <div align=center>
   <h2>🧧Contribution🧧</h2>
-  <a href="https://github.com/chriskthomas/linkfree-generator">linkfree-generator</a></br>
-  <a href="https://github.com/LelouchFR/skill-icons">skill-icons</a>
+  <a href="https://github.com/LelouchFR/skill-icons">skill-icons</a></br>
+  <a href="https://github.com/chriskthomas/linkfree-generator">linkfree-generator</a>
 </div>
