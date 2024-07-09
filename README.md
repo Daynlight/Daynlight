@@ -30,13 +30,13 @@
 <div align=center>
   <h2>🎀Langs And Tools🎀</h2>
 
-  <h3>Programing Langs</h3>
+  <h3>💎Programing Langs💎</h3>
     <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,js,ts,css,vite,md,nodejs,express,php,lua">
-  <h3>Databases</h3>
+  <h3>🧶Databases🧶</h3>
    <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite">
-  <h3>Tools</h3>
+  <h3>🏏Tools🏏</h3>
     <img src="https://skillicons.dev/icons?i=github,git,blender,vscode,visualstudio,arduino,cmake">
-  <h3>Will Learn</h3>
+  <h3>🎡Will Learn🎡</h3>
     <img src="https://skillicons.dev/icons?i=c,vue,react,java,angular">
 </div>
 
