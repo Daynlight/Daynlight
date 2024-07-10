@@ -28,8 +28,6 @@
 </div>
 
 <div align=center>
-  <h2>🎀Langs And Tools🎀</h2>
-
   <h3>💎Programing Langs💎</h3>
     <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,js,ts,css,vite,md,nodejs,express,php,lua">
   <h3>🧶Databases🧶</h3>
