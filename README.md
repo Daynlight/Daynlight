@@ -24,7 +24,7 @@
 
 <div align=center>
   <h2>👑Trophy👑</h2>
-  <a href=""><img src = "https://github-profile-trophy.vercel.app/?username=daynlight&theme=algolia&column=-1&rank=-?"></a>
+  <img src = "https://github-profile-trophy.vercel.app/?username=daynlight&theme=algolia&column=-1&rank=-?">
 </div>
 
 <div align=center>
