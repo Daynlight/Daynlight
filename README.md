@@ -22,7 +22,7 @@
 </div>
 
 <div align=center>
-  <h2>🎗Special mention</h2>
+  <h2>🎗Special mention🎗</h2>
   <a href="https://github.com/LamaInPijamas">
     <img height=200px src="https://avatars.githubusercontent.com/u/171052405?v=4">
     <h3>LamaInPijama</h3>
