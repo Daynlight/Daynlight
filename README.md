@@ -20,3 +20,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daynlight&theme=algolia">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,python,mysql,sqlite,nodejs,markdown,cmake,blender,gimp,vscode">
 </div>
+
+<div align=center>
+  <h2>🎗Special mention</h2>
+  <a href="https://github.com/LamaInPijamas">
+    <img height=200px src="https://avatars.githubusercontent.com/u/171052405?v=4">
+    <h3>LamaInPijama</h3>
+  </a>
+</div>
