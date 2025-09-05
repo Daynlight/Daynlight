@@ -23,8 +23,20 @@
 
 <div align=center>
   <h2>🎗Special mention🎗</h2>
-  <a href="https://github.com/LamaInPijamas">
-    <img height=200px src="https://avatars.githubusercontent.com/u/171052405?v=4">
-    <h3>LamaInPijama</h3>
-  </a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LamaInPijamas">
+        <img height="200" src="https://avatars.githubusercontent.com/u/171052405?v=4" /><br>
+        <h3>LamaInPijama</h3>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Morekx0">
+        <img height="200" src="https://avatars.githubusercontent.com/u/77542255?v=4" /><br>
+        <h3>Morekx0</h3>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
