@@ -18,7 +18,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daynlight&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daynlight&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daynlight&theme=algolia">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,python,mysql,sqlite,nodejs,markdown,cmake,blender,gimp,vscode">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,python,mysql,sqlite,nodejs,markdown,git,cmake,blender,gimp,vscode">
 </div>
 
 <div align=center>
