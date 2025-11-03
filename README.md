@@ -18,7 +18,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daynlight&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daynlight&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daynlight&theme=algolia">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,python,mysql,sqlite,nodejs,markdown,git,cmake,blender,gimp,vscode">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=asm,c,cpp,cs,java,python,mysql,sqlite,nodejs,markdown,git,cmake,blender,gimp,vscode">
 </div>
 
 <div align=center>
@@ -39,4 +39,10 @@
     </td>
   </tr>
 </table>
+
+<div>
+  <h2>🛠️Had contact🛠️</h2>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,cmake,windows,linux,debian,ubuntu,mint,bash,md,git,github,githubactions,gitlab,raspberrypi,arduino,gmail,twitter,docker,html,css,javascript,ts,jquery,npm,nodejs,express,angular,vue,vite,react,sass,bootstrap,tailwind,php,anaconda,gradle,gcp,mysql,sqlite,redis,r,lua,haskell,rust,ruby,julia,py,pytorch,godot,unity,unreal,robloxstudio,discord,linkedin,figma,blender,latex,svg,visualstudio,vscode,vim">
+</div>
+
 </div>
