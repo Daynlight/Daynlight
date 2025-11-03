@@ -46,7 +46,7 @@
     <h3>Programs</h3>
       <img src="https://skillicons.dev/icons?i=git,github,githubactions,gmail,twitter,discord,blender,visualstudio,vscode">
     <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,bash,html,css,javascript,py,latex">
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,py,bash,latex,html,css,javascript,nodejs,vue,vite">
     <h3>Build/Docs</h3>
         <img src="https://skillicons.dev/icons?i=cmake,md">
     <h3>Databases</h3>
@@ -64,7 +64,7 @@
     <h3>Databases/Cloud</h3>
       <img src="https://skillicons.dev/icons?i=redis,gcp">
     <h3>Frameworks</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,angular,vue,vite,react,sass,bootstrap,tailwind,pytorch,ts">
+      <img src="https://skillicons.dev/icons?i=,express,angular,react,sass,bootstrap,tailwind,pytorch,ts">
       
 </div>
 </div>
