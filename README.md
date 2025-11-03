@@ -56,7 +56,7 @@
     <h3>OS/Programs</h3>
       <img src="https://skillicons.dev/icons?i=mint,arduino,gitlab,docker,figma,vim,linkedin">
     <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=lua,haskell,rust,ruby,julia,php,r">
+      <img src="https://skillicons.dev/icons?i=lua,haskell,julia,php,r">
     <h3>Package Managers</h3>
       <img src="https://skillicons.dev/icons?i=anaconda,npm,gradle">
     <h3>Game Engines</h3>
@@ -64,7 +64,7 @@
     <h3>Databases/Cloud</h3>
       <img src="https://skillicons.dev/icons?i=redis,gcp">
     <h3>Frameworks</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,angular,vue,vite,react,jquery,sass,bootstrap,tailwind,pytorch,ts">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,angular,vue,vite,react,sass,bootstrap,tailwind,pytorch,ts">
+      
 </div>
-
 </div>
