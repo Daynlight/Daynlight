@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-  <img height=200px src="https://avatars.githubusercontent.com/u/62157770?v=4"></br>
+  <img height=200px src="https://wsrv.nl/?url=wsrv.nl/?url=avatars.githubusercontent.com/u/62157770?v=4&w=300&h=300&fit=cover&mask=circle"></br>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake.svg" />
