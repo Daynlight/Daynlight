@@ -43,29 +43,29 @@
 <div>
   <h2>🛠️Tools/Skills🛠️</h2>
     <h3>OS</h3>
-      <img src="https://skillicons.dev/icons?i=windows,linux,debian,ubuntu">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,debian,ubuntu">
     <h3>Programs</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,gmail,twitter,discord,blender,visualstudio,vscode">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,gmail,twitter,discord,blender,visualstudio,vscode">
     <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,py,bash,latex,html,css,javascript,nodejs,vue,vite">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,java,py,bash,latex,html,css,javascript,nodejs,vue,vite">
     <h3>Build/Docs</h3>
-        <img src="https://skillicons.dev/icons?i=cmake,md">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake,md">
     <h3>Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite">
   
   <h2>⚓Had contact⚓</h2>
     <h3>OS/Programs</h3>
-      <img src="https://skillicons.dev/icons?i=mint,arduino,gitlab,docker,figma,vim,linkedin">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mint,arduino,gitlab,docker,figma,vim,linkedin">
     <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=lua,haskell,julia,php,r">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=lua,haskell,julia,php,r">
     <h3>Package Managers</h3>
-      <img src="https://skillicons.dev/icons?i=anaconda,npm,gradle">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,npm,gradle">
     <h3>Game Engines</h3>
-      <img src="https://skillicons.dev/icons?i=godot,unity,unreal,robloxstudio">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=godot,unity,unreal,robloxstudio">
     <h3>Databases/Cloud</h3>
-      <img src="https://skillicons.dev/icons?i=redis,gcp">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=redis,gcp">
     <h3>Frameworks</h3>
-      <img src="https://skillicons.dev/icons?i=,express,angular,react,sass,bootstrap,tailwind,pytorch,ts">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=express,angular,react,sass,bootstrap,tailwind,pytorch,typescript">
       
 </div>
 </div>
