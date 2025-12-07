@@ -5,6 +5,9 @@
 <div align="center">
   <img height=200px src="https://wsrv.nl/?url=wsrv.nl/?url=avatars.githubusercontent.com/u/62157770?v=4&w=300&h=300&fit=cover&mask=circle"></br>
 
+  <h3>About me:</h3>
+  <a>Hi I am Daniel. I am programming for over 5 years. Mainly in C and C++. I used to be web dev but now I am focused on software development. I like topics associated with rendering and computer graphics. I also learn about AI even if I am not big fan of topic.</a>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake.svg" />
@@ -42,30 +45,17 @@
 
 <div>
   <h2>🛠️Tools/Skills🛠️</h2>
-    <h3>OS</h3>
+    <h3>🐱Main skills🐱</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cmake,mysql,sqlite">
+    <h3>🐀Other skills🐀</h3>  
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,visualstudio,vscode,bash,html,css,javascript,md">
+    <h3>🐥OS🐥</h3>  
       <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,debian,ubuntu">
-    <h3>Programs</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,gmail,twitter,discord,blender,visualstudio,vscode">
-    <h3>Languages</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,java,py,bash,latex,html,css,javascript,nodejs,vue,vite">
-    <h3>Build/Docs</h3>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake,md">
-    <h3>Databases</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite">
-  
-  <h2>⚓Had contact⚓</h2>
-    <h3>OS/Programs</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mint,arduino,gitlab,docker,figma,vim,linkedin">
-    <h3>Languages</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=lua,haskell,julia,php,r">
-    <h3>Package Managers</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,npm,gradle">
-    <h3>Game Engines</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=godot,unity,unreal,robloxstudio">
-    <h3>Databases/Cloud</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=redis,gcp">
-    <h3>Frameworks</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=express,angular,react,sass,bootstrap,tailwind,pytorch,typescript">
+    <h3>🐻‍❄️Want to learn🐻‍❄️</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,java">
+    <h3>🦥Familiar with🦥</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino,gitlab,lua,php,r,py,docker,redis,gcp,blender,latex,nodejs,npm,vue">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=express,angular,react,sass,bootstrap,tailwind,typescript,godot,unity,unreal,robloxstudio">
       
 </div>
 </div>
