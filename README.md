@@ -6,7 +6,17 @@
   <img height=200px src="https://wsrv.nl/?url=wsrv.nl/?url=avatars.githubusercontent.com/u/62157770?v=4&w=300&h=300&fit=cover&mask=circle"></br>
 
   <h3>About me:</h3>
-  <a>Hi I am Daniel. I am programming for over 5 years. Mainly in C and C++. I used to be web dev but now I am focused on software development. I like topics associated with rendering and computer graphics. I also learn about AI even if I am not big fan of topic.</a>
+<div align="left">
+  
+I’m Daniel — a software developer with ~5 years of programming experience, primarily in C and C++. I moved from web work into systems and tooling, and I enjoy graphics and rendering work as well as small ML experiments. Below are representative projects:
+- CPU — low‑level/systems projects (see repo)
+- Microshell — small shell / tooling
+- CWindow — windowing / UI experiments
+- Network — networking-related projects
+- Graphite, Shader_Editor, Fractals, Filters — graphics, shaders and rendering
+- NeuralNetwork — ML/NN experiments and demos
+- ASD — miscellaneous utilities and experiments
+</div>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
