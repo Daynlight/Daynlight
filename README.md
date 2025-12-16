@@ -62,7 +62,7 @@ I’m Daniel — a software developer with ~5 years of programming experience, p
     <h3>🐥OS🐥</h3>  
       <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,debian,ubuntu">
     <h3>🐻‍❄️Want to learn🐻‍❄️</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,java">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,java,asm">
     <h3>🦥Familiar with🦥</h3>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino,gitlab,lua,php,r,py,docker,redis,gcp,blender,latex,nodejs,npm,vue">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=express,angular,react,sass,bootstrap,tailwind,typescript,godot,unity,unreal,robloxstudio">
