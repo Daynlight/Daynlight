@@ -12,9 +12,9 @@
   I’m Daniel — a software developer with ~7 years of programming experience, primarily in C and C++. I moved from web work into systems and tooling. I enjoy graphics and rendering work as well. Below are representative projects:
 
   - CPU — low‑level/systems projects.
-  - CWindow — windowing / UI experiments.
+  - CWindow — rendering library.
   - Graphite, Shader_Editor, Fractals, Filters — graphics, shaders and rendering.
-  - Network — networking-related projects.
+  - Network — networking library.
 </div>
 
 <picture>
