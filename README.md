@@ -24,8 +24,8 @@
 </picture></br>
 </div>
 
-<div align=center> 
-  <h2>💖Stats💖</h2>
+<div align=center>
+  <h2>Stats</h2>
   <table>
     <tr width=100%>
       <td width=50% colspan=2>
@@ -52,7 +52,7 @@
 </div>
 
 <div align=center>
-  <h2>🎗Special mention🎗</h2>
+  <h2>Special mention</h2>
   <table>
     <tr>
       <td align="center">
