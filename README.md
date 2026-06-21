@@ -5,7 +5,7 @@
 <div align="center">
   <img height=200px src="https://wsrv.nl/?url=wsrv.nl/?url=avatars.githubusercontent.com/u/62157770?v=4&w=300&h=300&fit=cover&mask=circle"></br>
 
-<h3>About me:</h3>
+<!-- <h3>About me:</h3> -->
   
 <!-- <div align="left">
 
