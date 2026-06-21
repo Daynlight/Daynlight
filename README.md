@@ -7,7 +7,7 @@
 
 <h3>About me:</h3>
   
-<div align="left">
+<!-- <div align="left">
 
   I’m Daniel — a software developer with ~7 years of programming experience, primarily in C and C++. I moved from web work into systems and tooling. I enjoy graphics and rendering work as well. Below are representative projects:
 
@@ -15,7 +15,7 @@
   - CWindow — rendering library.
   - Graphite, Shader_Editor, Fractals, Filters — graphics, shaders and rendering.
   - Network — networking library.
-</div>
+</div> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
